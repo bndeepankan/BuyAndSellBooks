@@ -1,0 +1,23 @@
+{
+  "name": "BuyAndSellBooks",
+  "version": "1.0.0",
+  "description": "Web Application for users to buy and sell books online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bndeepankan/BuyAndSellBooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bndeepankan/BuyAndSellBooks/issues"
+  },
+  "homepage": "https://github.com/bndeepankan/BuyAndSellBooks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
